@@ -1,0 +1,1 @@
+{ "name": "gurtos-droid-demo", "type": "module", "private": true, "scripts": { "test": "node slug.test.js" } }
